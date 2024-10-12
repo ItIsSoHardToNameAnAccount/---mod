@@ -1,0 +1,39 @@
+{
+  "3005524": {
+    "id": 3005524,
+    "ItemIcon": 5231,
+    "maxNum": 9999999,
+    "name": "朱雀丹",
+    "FaBaoType": "",
+    "Affix": [],
+    "TuJianType": 4,
+    "ShopType": 99,
+    "ItemFlag": [
+      6,
+      602,
+      6023
+    ],
+    "WuWeiType": 0,
+    "ShuXingType": 0,
+    "type": 5,
+    "quality": 3,
+    "typePinJie": 0,
+    "StuTime": 0,
+    "seid": [
+      60
+    ],
+    "vagueType": 1,
+    "price": 1500,
+    "desc": "扣除生命至10%以下",
+    "desc2": "一位丹圣专门为朱雀灵纹发明的丹药。",
+    "CanSale": 0,
+    "DanDu": 1,
+    "CanUse": 999,
+    "NPCCanUse": 0,
+    "yaoZhi1": 0,
+    "yaoZhi2": 0,
+    "yaoZhi3": 0,
+    "ShuaXin": 0,
+    "wuDao": []
+  }
+}
